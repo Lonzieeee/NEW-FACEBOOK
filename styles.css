@@ -214,10 +214,7 @@ li {
   }
 
   footer {
-    height: 100;
-    width: 100%;
-    padding: 20px;
-   margin: 0 10%;
+    display: none;
   }
 
   input,
